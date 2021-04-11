@@ -190,7 +190,11 @@ private:
    QScopedPointer<FaceFeature>  m_pFaceFeature;
 
    QString m_appID;  
+<<<<<<< HEAD
    QString m_sdkKey; 
+=======
+   QString m_sdkKey;
+>>>>>>> 4ec21174cd152f132dd8f5b13ebc78865408f789
    QString m_activeKey{""};
    QHash<QString, ASF_FaceFeature> m_FeaturesHash;
 
