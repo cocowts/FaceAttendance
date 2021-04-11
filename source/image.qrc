@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/video.gif</file>
+        <file>image/search.png</file>
+        <file>image/avatarman.png</file>
+        <file>image/avatarwoman.png</file>
+        <file>image/cancel.png</file>
+        <file>image/off.png</file>
+        <file>image/on.png</file>
+        <file>image/calendar_next_month.png</file>
+        <file>image/calendar_pre_month.png</file>
+        <file>image/calendar_next_year.png</file>
+        <file>image/calendar_pre_year.png</file>
+        <file>image/calendar.png</file>
+        <file>image/loading.gif</file>
+        <file>image/vdividingline.png</file>
+        <file>image/logo.png</file>
+    </qresource>
+</RCC>
