@@ -189,8 +189,8 @@ private:
    QScopedPointer<FaceDetect>   m_pFaceDetect;
    QScopedPointer<FaceFeature>  m_pFaceFeature;
 
-   QString m_appID;  //{"AV3HLtNhNM98X8tGBB4GtG14PD34gouNHBQVY9E4bjEa"};
-   QString m_sdkKey; //{"6FSukJpCaon1ajHdSvmKXoGUpT2sLhAcXhH31uWNhMC9"};
+   QString m_appID;  
+   QString m_sdkKey; 
    QString m_activeKey{""};
    QHash<QString, ASF_FaceFeature> m_FeaturesHash;
 
