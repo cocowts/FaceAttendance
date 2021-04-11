@@ -27,7 +27,7 @@
 #include "facedetect.h"
 #include "facefeature.h"
 #include "waitdialog.h"
-
+ 
 class MainWindow : public QDialog
 {
     Q_OBJECT
